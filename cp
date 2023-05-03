@@ -4,4 +4,4 @@ echo 'Copy nginx conf files in /etc'
 echo 'syntax'
  nginx -t
 echo 'Reload config'
- systemctl reload nginx
+systemctl reload nginx
